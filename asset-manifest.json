@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-product/static/css/main.8ff306df.css",
+    "main.js": "/online-product/static/js/main.fc7f3a39.js",
+    "static/media/KiwiFruit.webp": "/online-product/static/media/KiwiFruit.ad21b0d9862c681b68c3.webp",
+    "static/media/orange.jpg": "/online-product/static/media/orange.927f9a3d1f4a27843052.jpg",
+    "index.html": "/online-product/index.html",
+    "main.8ff306df.css.map": "/online-product/static/css/main.8ff306df.css.map",
+    "main.fc7f3a39.js.map": "/online-product/static/js/main.fc7f3a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ff306df.css",
+    "static/js/main.fc7f3a39.js"
+  ]
+}
